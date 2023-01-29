@@ -1,6 +1,5 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 
-
 export const fetchText = createAsyncThunk(    
     'fetchGreetings',
     async function() {
@@ -29,6 +28,7 @@ const greetingSlice = createSlice({
         [fetchText.fulfilled]: (state, action) => {
             state.status = 'resolved';
             state.greeting = action.payload;
+            // console.log(action.payload);
         },
         [fetchText.rejected]: (state) => {
             state.status = 'failed';

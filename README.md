@@ -138,7 +138,6 @@ Or
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Rotate refresh icon]**
 - [ ] **[Add more 'Hello world' messages]**
 - [ ] **[Construct the API with languages, and country greeting colors]**
 

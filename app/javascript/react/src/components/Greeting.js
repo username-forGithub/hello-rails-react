@@ -20,9 +20,9 @@ const Greeting = () => {
   };
 
   return(
-    <div className="row">
-      <p class="text-center">Text: {`${title ? title : ''}`}</p>
-      <button onClick={updateText}>Change</button>
+    <div className="container">
+      <p class="text-center pt-5 textp">{`${title ? title : ''}`}</p>
+      <p class="text-center"><button class="neon-button" onClick={updateText}>Click Me</button></p>
     </div>
   )
 }
