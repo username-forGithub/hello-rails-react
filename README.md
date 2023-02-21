@@ -134,15 +134,6 @@ Or
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/baxtiyor-yusubaliev/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[Add more 'Hello world' messages]**
-- [ ] **[Construct the API with languages, and country greeting colors]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
